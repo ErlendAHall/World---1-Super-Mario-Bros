@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 guid: 04f34ac75f0ee8146991b81b59967d2e
-timeCreated: 1429908626
+timeCreated: 1431339210
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: World 1-1 Background_Main
+    21300002: World 1-1 Background_Clound1
+    21300004: World 1-1 Background_Cloud_single1
+    21300006: World 1-1 Background_ground
+    21300008: World 1-1 Background_QuestionBlock
+    21300010: World 1-1 Background_BreakBlock01
+    21300012: World 1-1 Background_Hill01
+    21300014: World 1-1 Background_bush01
+    21300016: World 1-1 Background_Hill02
+    21300018: World 1-1 Background_BushSmall01
+    21300020: Pipe
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -29,7 +40,7 @@ TextureImporter:
   textureFormat: -3
   maxTextureSize: 4096
   textureSettings:
-    filterMode: -1
+    filterMode: 0
     aniso: 16
     mipBias: -1
     wrapMode: 1
@@ -37,7 +48,7 @@ TextureImporter:
   lightmap: 0
   rGBM: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -48,7 +59,117 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    sprites:
+    - name: World 1-1 Background_Main
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 150
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_Clound1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 157
+        width: 320
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_Cloud_single1
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 159
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_ground
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 0
+        width: 240
+        height: 23
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_QuestionBlock
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_BreakBlock01
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 71
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_Hill01
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 77
+        height: 35
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_bush01
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 23
+        width: 64
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_Hill02
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 23
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: World 1-1 Background_BushSmall01
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 23
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipe
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 24
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
   spritePackingTag: 
   userData: 
   assetBundleName: 
